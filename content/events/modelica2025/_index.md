@@ -59,6 +59,18 @@ The Modelica conference will bring together people using Modelica and/or other M
 - Modelica for teaching and education
 - FMI in Modelica and non-Modelica applications and tools
 
+## Call for papers, user presentations and tutorials
+
+<!-- Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:   -->
+<!-- - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) -->
+
+NOTE: Basierend auf Zeitplan Regensburg/ America24:
+- June 15, 2025 Submission of full papers
+- June 1, 2025 Submission of extended abstracts for presentation-only contributions
+- August 10, 2025 Notification of acceptance for papers and presentations
+- August 30th, 2025 Submission of final papers and one-page abstracts
+- October 7th, 2025 Submission of final presentations
+
 ## Organization and Contact
 
 The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
@@ -67,6 +79,9 @@ The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://w
 
 ### Conference Board
 
-  -  **Conference Co-Chair** Dr. Ulf Christian Müller (HSLU)
+  -  **Conference Co-Chair** Prof. Ulf Christian Müller (HSLU)
+  -  **Conference Co-Chair** NOTE: Frage an Dirk: Gibts eine Liste?
+
+
 
 
