@@ -35,7 +35,6 @@ Lucerne School of Engineering and Architecture
  
 Institute of Mechanical Engineering and Energy Technology IME <br/>
 Prof. Dr. Ulf Christian Müller <br/>
-Lecturer <br/>
 Head of RG System Modeling, Digital Twins
 
 <ulfchristian.mueller@hslu.ch> <br/>

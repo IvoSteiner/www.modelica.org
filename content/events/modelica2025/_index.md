@@ -64,12 +64,11 @@ The Modelica conference will bring together people using Modelica and/or other M
 <!-- Please see the [call for papers](call2024) for details about paper submissions, and the calls for [industrial user presentations](call2024), tutorials, and vendor presentations. Please look at the [author instructions](authors) before submitting. The submission deadlines are as follows:   -->
 <!-- - June 1, 2024 Submission of extended abstracts for presentation-only contributions, [workshops and tutorials](https://docs.google.com/forms/d/e/1FAIpQLScsRLAe-YwK7yAQoW6B5KQQ87M_SU4dgj6eKnvpjG3h53HMGw/viewform) -->
 
-NOTE: Anzupassen basierend auf Zeitplan Regensburg/ America24:
-- June 15, 2025 Submission of full papers
-- June 1, 2025 Submission of extended abstracts for presentation-only contributions
-- August 10, 2025 Notification of acceptance for papers and presentations
-- August 30th, 2025 Submission of final papers and one-page abstracts
-- October 7th, 2025 Submission of final presentations
+- May 1th, 2025 Submission of full papers
+- ?, 2025 Submission of extended abstracts for presentation-only contributions
+- June 16th, 2025 Notification of acceptance for papers and presentations
+- August 15th, 2025 Submission of final papers and one-page abstracts
+- ?, 2025 Submission of final presentations
 
 ## Organization and Contact
 
