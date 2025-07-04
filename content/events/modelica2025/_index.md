@@ -171,7 +171,7 @@ In addition to paper presentations, the conference features several Modelica tut
   7.	Introduction to Modeling, Simulation, Debugging, and Interoperability with Modelica and OpenModelica
   8.	Modelica in the Browser: Modeling, Simulation and Web App Integration for Custom UI
   9.	Modeling and Simulation of profitableness analyses in Modelica – industrial energy system meets variable energy prices
-  10.	Modeling and Simulation of Robotic Arm Dynamics and Control in Modelica with MWORKS.
+  10.	Modeling and Simulation of Robotic Arm Dynamics and Control in Modelica with MWORKS
   11.	Modeling complex thermal architectures using the DLR ThermoFluid Stream Library
   12.	Regression Testing with Dymola and the Testing Library
   13.	System Structure and Parameterization
